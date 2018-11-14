@@ -11,6 +11,8 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@mdi/font": "^3.0.39",
+    "aos": "^2.3.4",
     "cross-env": "^5.2.0",
     "nuxt": "^2.2.0",
     "vuesax": "^3.7.1",
